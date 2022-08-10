@@ -1,0 +1,11 @@
+<taglib>
+<tlib-version>2.0</tlib-version>
+<jsp-version>2.0</jsp-version>
+<short-name>employees</short-name>
+
+<tag>
+<name>fetch</name>
+<tag-class>com.Clinton.employee</tag-class>
+<body-content>empty</body-content>
+</tag>
+</taglib>
